@@ -1,0 +1,21 @@
+{
+  "name": "grunticon-loader",
+  "version": "1.0.0",
+  "authors": [
+    "Scott Jehl"
+  ],
+  "description": "grunticon Stylesheet Loader https://github.com/filamentgroup/grunticon",
+  "main": "grunticon.loader.js",
+  "keywords": [
+    "grunticon"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jkenlooper/grunticon-loader",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
